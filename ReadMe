@@ -1,0 +1,3 @@
+Speedy extractor use to extract content from URL we given then try using
+extractive method summarize it
+some optimization has been done by using multithreading
